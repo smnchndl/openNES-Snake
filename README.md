@@ -1,4 +1,4 @@
-# openNES Snake
+# openNES Snake --
 ## Rebuilding classic games for the NES as Open Source  
 ![IMG1](snake-screenhost-1.png) ![IMG2](snake-screenhost-2.png) ![IMG3](snake-screenhost-3.png)
 
